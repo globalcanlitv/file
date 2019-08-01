@@ -6,13 +6,13 @@
 
 
 
-{"X":[{"A":"0","B":"TÜM KATEGORİLER","C":"","D":"http://www.mobilcanlitvizle.com/kategorilogo/tumu.png","E":"0"},
+{"A":"0","B":"TÜM KATEGORİLER","C":"","D":"http://www.mobilcanlitvizle.com/kategorilogo/tumu.png","E":"0"},
 
 {"A":"1","B":"KÜRDİSTAN","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"1"},
 
 {"A":"2","B":"TÜRKİYE","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/haber.png","E":"2"},
 
-{"A":"3","B":"BELÇİKA/FRANSA","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/diger.png","E":"3"}],
+{"A":"3","B":"BELÇİKA/FRANSA","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/diger.png","E":"3"},
 
 
 
