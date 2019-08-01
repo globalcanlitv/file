@@ -1,3 +1,11 @@
+
+
+
+"Y":[{"A":"0","B":"İletişim & Hata Bildir","C":"1","D":"KÜRDİSTAN","E":"İletişim ve hata bildirmek için bizimle irtibat kurun.","F":"https://i.imgur.com/kjH7gkh.png","G":"https://iptvproo.blogspot.com/p/iletisim-ve-hata-bildirimi.html","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
+
+
+
+
 {"X":[{"A":"0","B":"TÜM KATEGORİLER","C":"","D":"http://www.mobilcanlitvizle.com/kategorilogo/tumu.png","E":"0"},
 
 {"A":"1","B":"KÜRDİSTAN","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"1"},
@@ -5,9 +13,6 @@
 {"A":"2","B":"TÜRKİYE","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/haber.png","E":"2"},
 
 {"A":"3","B":"BELÇİKA/FRANSA","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/diger.png","E":"3"}],
-
-
-"Y":[{"A":"0","B":"İletişim & Hata Bildir","C":"1","D":"KÜRDİSTAN","E":"İletişim ve hata bildirmek için bizimle irtibat kurun.","F":"https://i.imgur.com/kjH7gkh.png","G":"https://iptvproo.blogspot.com/p/iletisim-ve-hata-bildirimi.html","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
 
 
 
