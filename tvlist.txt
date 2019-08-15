@@ -72,6 +72,24 @@
 
 {"A":"1023","B":"BBC EARTH TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/zkMlHZG.jpg","G":"http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/2309.ts","H":"vitamioplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
+{"A":"1024","B":"BEİN SPORTS 1 TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/b2mC5Y2.png","G":"http://cdn.stream99439534.tk:8081/selcuksports/bein1/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1025","B":"BEİN SPORTS 2 TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/HM0Wggp.png","G":"http://cdn.stream99439534.tk:8081/selcuksports/bein2/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1026","B":"BEİN SPORTS 3 TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/xtMFuyU.png","G":"http://cdn.stream99439534.tk:8081/selcuksports/bein3/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1027","B":"BEİN SPORTS 4 TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/BaGxKgN.png","G":"http://cdn.stream99439534.tk:8081/selcuksports/bein4/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1028","B":"S SPORTS TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/XH14VIs.png","G":"http://cdn1.stream99439534.tk:8081/selcuksports/ssport/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1029","B":"SMARTSPOR TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/qlpWHye.png","G":"http://cdn1.stream99439534.tk:8081/selcuksports/smartspor/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1030","B":"SPORTS TV HD 576P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/HKaygXt.png","G":"https://mn-nl.mncdn.com/blutv_live/sportstv/sportstv.smil/chunklist_b1596000_sltur.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1031","B":"A SPOR TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/4LmijVC.png","G":"http://trkvz-m.ercdn.net/asporhd/asporhd_720p.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1032","B":"TRT SPOR TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/7T6AnSX.png","G":"https://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
 {"A":"62","B":"TRT 1 TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/TiKI58Y.jpg","G":"https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_720p_av-b.m3u8?sd=10&rebase=on","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
 {"A":"63","B":"TRT HABER TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/imXFgHH.png","G":"http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/index_720p_av-p.m3u8?sd=10&rebase=on
@@ -96,6 +114,30 @@
 {"A":"72","B":"POWER TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/7q4pOeX.png","G":"https://livetv.powerapp.com.tr/powertv/powerhd.smil/chunklist_b1428000_sltur.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
 {"A":"73","B":"POWER TÜRK TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/Di7D2Jl.png","G":"https://mn-nl.mncdn.com/blutv_live/powerturkhd/powerturkhd.smil/chunklist_b1596000_sltur.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1033","B":"TRT ÇOCUK TV HD 1080P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/vvpV9hG.png","G":"http://85.132.53.56/turk/trt_cocuk/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1034","B":"MİNİKA ÇOCUK TV HD 576P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/L6USIeH.png","G":"http://trkvz-m.ercdn.net/minikagococuk/minikagococuk_576p.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1035","B":"MİNİKA GO TV HD 576P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/vlXfWtf.png","G":"http://trkvz-m.ercdn.net/minikago/minikago_576p.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1036","B":"DISNEY CHANNEL TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/1gdrMu6.jpg","G":"http://f-watch.is-lost.org:8080/live/ourpanel/wGq9C8e1BG/2318.ts","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1037","B":"CARTOON NETWORK TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/gIXusVY.png","G":"http://cdn1.stream99439534.tk:8081/selcuksports/cnetwork/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1038","B":"SİNEMA 1 SD","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/QLABMdm.jpg","G":"http://217.182.228.200:1935/sinematv/sinematv/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1039","B":"SİNEMA 2 SD","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/QLABMdm.jpg","G":"http://maksimtv.radyotelekomtv.com:1935/maksimtv/maksimtv/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1040","B":"SİNEMA 3 HD","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/QLABMdm.jpg","G":"http://almanyadaturktv.radyotelekomtv.com:1935/almanyadaturktv/almanyadaturktv/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1041","B":"SİNEMA 4 HD","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/QLABMdm.jpg","G":"http://8d4a1a46-stream.nmbs.top/c/28/1457.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1042","B":"SİNEMA 5 HD","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/QLABMdm.jpg","G":"https://blutv-beta.akamaized.net/fx/fx.smil/output.mpd","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1043","B":"SİNEMA 6 HD","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/QLABMdm.jpg","G":"http://win1.yayin.com.tr/LeblebiTv/LeblebiTv/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1044","B":"SİNEMA 7 HD","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/QLABMdm.jpg","G":"http://8d4a1a46-stream.nmbs.top/c/28/1411.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
 
 {"A":"31","B":"KURDSAT TV HD 576P","C":"2","D":"KÜRTÇE","E":"KÜRTÇE","F":"https://i.imgur.com/NqyKowG.jpg","G":"http://mysisli.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
