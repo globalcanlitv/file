@@ -1,10 +1,10 @@
 {"X":[{"A":"0","B":"TÜM KATEGORİLER","C":"","D":"http://www.mobilcanlitvizle.com/kategorilogo/tumu.png","E":"0"},
 
-{"A":"1","B":"TURKCE","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"1"},
+{"A":"1","B":"TÜRKÇE","C":"1","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"1"},
 
-{"A":"2","B":"KURTCE","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/haber.png","E":"2"},
+{"A":"2","B":"KÜRTÇE","C":"2","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/haber.png","E":"2"},
 
-{"A":"3","B":"BELÇİKA/FRANSA","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/diger.png","E":"3"}],
+{"A":"3","B":"BELÇİKA/FRANSA","C":"3","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/diger.png","E":"3"}],
 
 
 "Y":[{"A":"0","B":"İletişim & Hata Bildir","C":"2","D":"TÜRKÇE","E":"İletişim ve hata bildirmek için bizimle irtibat kurun.","F":"https://i.imgur.com/kjH7gkh.png","G":"https://iptvproo.blogspot.com/p/iletisim-ve-hata-bildirimi.html","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
