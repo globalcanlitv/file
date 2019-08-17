@@ -74,7 +74,7 @@
 
 {"A":"1023","B":"BBC EARTH TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/zkMlHZG.jpg","G":"http://cdn1.stream99439534.tk:8081/selcuksports/bbcearth/playlist.m3u8","H":"vitamioplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
-{"A":"1024","B":"BEİN SPORTS 1 TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/b2mC5Y2.png","G":"http://cdn.stream99439534.tk:8081/selcuksports/bein1/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+{"A":"1024","B":"BEİN SPORTS 1 TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/b2mC5Y2.png","G":"https://sport7.biz/lba/123/g5/beinsport1tur.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
 {"A":"1025","B":"BEİN SPORTS 2 TV HD 720P","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/HM0Wggp.png","G":"http://cdn.stream99439534.tk:8081/selcuksports/bein2/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
