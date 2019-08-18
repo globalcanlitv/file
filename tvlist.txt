@@ -307,6 +307,8 @@
 {"A":"101","B":"CANAL C TV HD 576P","C":"3","D":"BELÇİKA/FRANSA","E":"BELÇİKA/FRANSA","F":"https://i.imgur.com/0OZCW2E.png","G":"http://streamer.canalc.be:1935/canalc/smil:SMIL-canalc-multi/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
 
+{"A":"10488","B":"GS TV HD","C":"1","D":"TÜRKÇE","E":"TÜRKÇE","F":"https://i.imgur.com/U3WzZh3.png","G":"https://wstream.to/embed/4venh06vq7lgz7a","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"24.06.2019 19:18:55","P":0},
+
 
 
 
