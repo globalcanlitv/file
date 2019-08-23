@@ -336,7 +336,7 @@
 
 
 
-{"A":"609","B":"v4.7.4 Güncellemesi","C":"10","D":"Güncelleme","E":"Yeni Güncellemeyi İndirmek için Tıklayın.","F":"http:\/\/mobilcanlitvizle.com\/kanallogo\/play.png","G":"https://archive.org/download/globalcanlitvv474/Global_Canli_Tv_v4-7-4.apk","H":"applaunch","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"21.05.2017 02:54:45","P":0},
+{"A":"609","B":"v4.7.4 Güncellemesi","C":"10","D":"Güncelleme","E":"Yeni Güncellemeyi İndirmek için Tıklayın.","F":"http:\/\/mobilcanlitvizle.com\/kanallogo\/play.png","G":"https://archive.org/download/globalcanlitvv474/Global_Canli_Tv_v4-7-4.apk","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"21.05.2017 02:54:45","P":0},
 
 
 
