@@ -21,7 +21,7 @@
 
 "Y":[{"A":"0","B":"İletişim & Hata Bildir","C":"1","D":"ULUSAL KANALLAR","E":"İletişim ve hata bildirmek için bizimle irtibat kurun.","F":"https://4.bp.blogspot.com/-0yHz4iZlBBs/XWKnF3sJ26I/AAAAAAAAAOI/MSicRpaMiqgwIvpylUT3BSmwr9mQ9rf8ACPcBGAYYCw/s1600/kjH7gkh.png","G":"https://iptvproo.blogspot.com/p/iletisim-ve-hata-bildirimi.html","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
 
-{"A":"02","B":"Tv'de Nasıl İzlerim?","C":"1","D":"ULUSAL KANALLAR","E":"Televizyonda Bedava Tv İzle.","F":"https://1.bp.blogspot.com/-WTmo12A32cU/XWKnoagRrTI/AAAAAAAAAOE/ROlUVCTEcccBB2o85nZ0lvawxIWq9pQnwCKgBGAs/s1600/bmjHgH7.jpg","H":"openbrowser","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"21.05.2017 02:54:45","P":0},
+{"A":"02","B":"Tv'de Nasıl İzlerim?","C":"1","D":"ULUSAL KANALLAR","E":"Televizyonda Bedava Tv İzle.","F":"https://1.bp.blogspot.com/-WTmo12A32cU/XWKnoagRrTI/AAAAAAAAAOE/ROlUVCTEcccBB2o85nZ0lvawxIWq9pQnwCKgBGAs/s1600/bmjHgH7.jpg","G":"https://iptvproo.blogspot.com/p/kurulum.html","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
 
 {"A":"01","B":"Bugün Hangi Maç Var?","C":"3","D":"SPOR KANALLARI","E":"Günün Maçları","F":"https://2.bp.blogspot.com/-1X5K3ja9-TY/XWKnFylc3gI/AAAAAAAAAOQ/smbf5CiEi144il2XGadoXDAOTXTbK69EwCPcBGAYYCw/s1600/j8Ixc3D.png","G":"http://www.bugunmacvarmi.com/","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
 
