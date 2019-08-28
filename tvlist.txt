@@ -1,9 +1,9 @@
 {"X":[{"A":"0","B":"TÜM KATEGORİLER","C":"","D":"http://www.mobilcanlitvizle.com/kategorilogo/tumu.png","E":"0"}],
 
 
-"Y":[{"A":"0","B":"İletişim & Hata Bildir","C":"1","D":"ULUSAL KANALLAR","E":"İletişim ve hata bildirmek için bizimle irtibat kurun.","F":"https://4.bp.blogspot.com/-0yHz4iZlBBs/XWKnF3sJ26I/AAAAAAAAAOI/MSicRpaMiqgwIvpylUT3BSmwr9mQ9rf8ACPcBGAYYCw/s1600/kjH7gkh.png","G":"https://iptvproo.blogspot.com/p/iletisim-ve-hata-bildirimi.html","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
+"Y":[{"A":"0","B":"İletişim & Hata Bildir","C":"1","D":"Güncelleme İndir","E":"İletişim ve hata bildirmek için bizimle irtibat kurun.","F":"https://4.bp.blogspot.com/-0yHz4iZlBBs/XWKnF3sJ26I/AAAAAAAAAOI/MSicRpaMiqgwIvpylUT3BSmwr9mQ9rf8ACPcBGAYYCw/s1600/kjH7gkh.png","G":"https://iptvproo.blogspot.com/p/iletisim-ve-hata-bildirimi.html","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
 
 
 
 
-{"A":"609","B":"V4.7.4 Sürüm Güncellemesi","C":"10","D":"Güncelleme","E":"Yeni Güncellemeyi İndirmek için Tıklayın.","F":"https://4.bp.blogspot.com/-crDDMambHZ8/XWMcYMsEb1I/AAAAAAAAAPA/2dGx-KemYZUw_ggLkeLXR8qqG3DDBqATACLcBGAs/s1600/NIMceZg.png","G":"https://archive.org/download/globalcanlitvv474/Global_Canli_Tv_v4-7-4.apk","H":"openbrowser","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"21.05.2017 02:54:45","P":0}]}
+{"A":"609","B":"V4.7.4 Sürüm Güncellemesi","C":"1","D":"Güncelleme İndir","E":"Yeni Güncellemeyi İndirmek için Tıklayın.","F":"https://4.bp.blogspot.com/-crDDMambHZ8/XWMcYMsEb1I/AAAAAAAAAPA/2dGx-KemYZUw_ggLkeLXR8qqG3DDBqATACLcBGAs/s1600/NIMceZg.png","G":"https://archive.org/download/globalcanlitvv474/Global_Canli_Tv_v4-7-4.apk","H":"openbrowser","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"21.05.2017 02:54:45","P":0}]}
