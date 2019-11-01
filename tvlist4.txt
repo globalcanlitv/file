@@ -23,7 +23,7 @@
 {"A":"9","B":"BELÇİKA/FRANSA","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/diger.png","E":"9"}],
 
 
-"Y":[
+"Y":[{"A":"0","B":"İletişim & Hata Bildir","C":"1","D":"ULUSAL KANALLAR","E":"İletişim ve hata bildirmek için bizimle irtibat kurun.","F":"https://4.bp.blogspot.com/-0yHz4iZlBBs/XWKnF3sJ26I/AAAAAAAAAOI/MSicRpaMiqgwIvpylUT3BSmwr9mQ9rf8ACPcBGAYYCw/s1600/kjH7gkh.png","G":"https://iptvpro93.github.io","H":"webplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
 
 {"A":"03","B":"Telegram Grubumuz","C":"1","D":"ULUSAL KANALLAR","E":"Uygulama Grubumuz Açılmıştır.","F":"https://1.bp.blogspot.com/-7vi-miz6tSc/XWseU6ipwbI/AAAAAAAAATc/qqvWZ8xswQ0YzCW4VCC4cBarOgE4aSIhwCLcBGAs/s1600/PicsArt_09-01-03.20.32.png","G":"https://t.me/joinchat/AAAAAFf3Dm8C7x6xLj0gew","H":"openbrowser","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"","O":"03.05.2019 16:32:35","P":0},
 
