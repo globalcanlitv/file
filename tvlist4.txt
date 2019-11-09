@@ -478,6 +478,14 @@
 
 {"A":"1137","B":"SPORT 1 TV HD","C":"11","D":"ALMANYA","E":"ALMANYA","F":"https://3.bp.blogspot.com/-RNVAbtMw9Fo/Xb67d5BKZ5I/AAAAAAAAAfI/JS5TZ0EeRrcxA_N0goyI1WDFKsD39j5wQCLcBGAsYHQ/s1600/PicsArt_11-03-12.33.57.png","G":"https://h5p2p.peer-stream.com/chunks/sport1_hq.webm.mpd","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"https://h5p2p.peer-stream.com/s0/index-video.html?mpd=//h5p2p.peer-stream.com/chunks/sport1_hq.webm.mpd&toggleFullscreen=false&adfree=true&pu=0\"}","N":"ExoSourceManager/1.2 (Linux;Android 7.0) ExoPlayerLib/2.9.3","O":"04.06.2019 22:39:32","P":0},
 
+{"A":"1141","B":"SKY SPORT BUNDESLİGA 1 TV HD","C":"11","D":"ALMANYA","E":"ALMANYA","F":"https://1.bp.blogspot.com/-CVUrHYXxvP0/XcctF5DiXnI/AAAAAAAAAgk/sXmGWsIs59oM9oCi5O1_uJFjD3REL-IogCLcBGAsYHQ/s1600/Sky-Sports-Bundesliga-1.jpg","G":"http://tinyurl.com/y46padl6/live/ugurhasan/160819.hnb/2293.ts","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
+
+{"A":"1142","B":"DAZN 1 TV HD","C":"11","D":"ALMANYA","E":"ALMANYA","F":"https://1.bp.blogspot.com/-lintlngu_H0/XcctJ5XCoAI/AAAAAAAAAgw/vG_PiEXPXLYwS0n-0sdrxAYMVVRaGG77wCPcBGAYYCw/s1600/PicsArt_11-09-10.11.49.png","G":"http://tinyurl.com/y46padl6/live/ugurhasan/160819.hnb/2305.ts","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
+
+{"A":"1143","B":"DAZN 2 TV HD","C":"11","D":"ALMANYA","E":"ALMANYA","F":"https://3.bp.blogspot.com/-MEKxEfQGwxg/XcctNhbVsMI/AAAAAAAAAg0/xF4ZAatk6BUqfEI4axlXzLtfXSO0eUHMwCPcBGAYYCw/s1600/PicsArt_11-09-10.16.43.png","G":"http://tinyurl.com/y46padl6/live/ugurhasan/160819.hnb/2304.ts","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
+
+
+
 
 
 
