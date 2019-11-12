@@ -16,7 +16,7 @@
 
 {"A":"10","B":"YEREL KANALLAR","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"10"},
 
-{"A":"12","B":"DİN KANALLARI","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"12"},
+{"A":"12","B":"DİNİ KANALLAR","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"12"},
 
 {"A":"8","B":"KÜRTÇE","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/haber.png","E":"8"},
 
@@ -132,8 +132,6 @@
 {"A":"37","B":"MEDYA HABER TV HD 450P","C":"4","D":"HABER KANALLARI","E":"HABER KANALLARI","F":"https://1.bp.blogspot.com/-jU0SwaUvilg/XWLVAx_r-JI/AAAAAAAAAOc/O2q27DkFNPEAW-HOy759JVyRqupiegqXQCLcBGAs/s1600/m6cxmXd.jpg","G":"http://137.74.205.201/live15/live15.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
 {"A":"38","B":"HALK TV HD 540P","C":"4","D":"HABER KANALLARI","E":"HABER KANALLARI","F":"https://4.bp.blogspot.com/-09mhUDwS7fA/XWLWY44dJmI/AAAAAAAAAOo/EHnvoeQzKCYEXCGaUC21dhK30LtjoR45wCLcBGAs/s1600/vxl4Max.jpg","G":"https://blutv-beta.akamaized.net/halktv/halktv.smil/chunklist_b1596000_sltur.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
-
-{"A":"39","B":"REHBER TV HD 720P","C":"1","D":"ULUSAL KANALLAR","E":"ULUSAL KANALLAR","F":"https://2.bp.blogspot.com/-4ENjZ_9w9nY/XWLXYmWM6tI/AAAAAAAAAOw/3sWPWHYodTAGhcOL-c6xBw9AcEVDSTGewCLcBGAs/s1600/JDdfPke.jpg","G":"http://rehbertv.canliyayin.org/P871000884/rehbertv/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
 {"A":"40","B":"KANAL 7 TV HD 720P","C":"1","D":"ULUSAL KANALLAR","E":"ULUSAL KANALLAR","F":"https://4.bp.blogspot.com/-ty1TwTWKJAY/XWKnF6zNUHI/AAAAAAAAAN0/vSDbHMU9T4wtP2QQU92ItYL3pT_S9PpiwCPcBGAYYCw/s1600/bazSl2z.png","G":"https://blutv-beta.akamaized.net/kanal7hd/kanal7hd.smil/chunklist_b1596000_sltur.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
@@ -263,7 +261,9 @@
 
 {"A":"1074","B":"TELE1 HD","C":"10","D":"YEREL KANALLAR","E":"YEREL KANALLAR","F":"https://3.bp.blogspot.com/-V2CU9QjwGEw/XZSRnW6nK2I/AAAAAAAAAN0/ZCJDUKUGc64EqDZPoJHB41uAt_TdzoEgACLcBGAsYHQ/s1600/268x0w.jpg","G":"http://web.canlitvlive.io/izle/tele1.html","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
 
-{"A":"1141","B":"KABE TV HD","C":"12","D":"DİN KANALLARI","E":"DİN KANALLARI","F":"https://1.bp.blogspot.com/-zuBescHMF58/Xcny32NntTI/AAAAAAAAAhM/hdA34ymWTMQaanzobsbNNhPKOuluo11BQCLcBGAsYHQ/s1600/PicsArt_11-12-12.45.22.png","G":"http://tr.canlitv.fm/embed/index.php?tv=102&p=157","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
+{"A":"39","B":"REHBER TV HD 720P","C":"12","D":"DİNİ KANALLAR","E":"DİNİ KANALLAR","F":"https://2.bp.blogspot.com/-4ENjZ_9w9nY/XWLXYmWM6tI/AAAAAAAAAOw/3sWPWHYodTAGhcOL-c6xBw9AcEVDSTGewCLcBGAs/s1600/JDdfPke.jpg","G":"http://rehbertv.canliyayin.org/P871000884/rehbertv/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+{"A":"1141","B":"KABE TV HD","C":"12","D":"DİNİ KANALLAR","E":"DİNİ KANALLAR","F":"https://1.bp.blogspot.com/-zuBescHMF58/Xcny32NntTI/AAAAAAAAAhM/hdA34ymWTMQaanzobsbNNhPKOuluo11BQCLcBGAsYHQ/s1600/PicsArt_11-12-12.45.22.png","G":"http://tr.canlitv.fm/embed/index.php?tv=102&p=157","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"04.06.2019 22:58:45","P":0},
 
 {"A":"1038","B":"SİNEMA 1 HD","C":"7","D":"SİNEMA KANALLARI","E":"SİNEMA KANALLARI","F":"https://2.bp.blogspot.com/-IY69n7fgy3s/XWKnF13pJrI/AAAAAAAAAOQ/qG1s9W0PR-Ub2hhDaH198tCq4k9o5izxwCPcBGAYYCw/s1600/QLABMdm.jpg","G":"http://yayin2.bunusanasoracagim.best/selcuksportssinema/mspremium/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
