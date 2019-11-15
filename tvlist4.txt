@@ -396,7 +396,7 @@
 
 {"A":"32","B":"ZAGROS TV HD 720P","C":"8","D":"KÜRTÇE","E":"KÜRTÇE","F":"https://2.bp.blogspot.com/-cg_LV9ABxwc/XWKnF-BRXkI/AAAAAAAAAN8/Wp2hQqYoi0A2lBLmb6zATu9d9yTtaJ4TgCPcBGAYYCw/s1600/7FwqXnD.png","G":"https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist_w777146511_b1296000_sleng.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
-{"A":"33","B":"ZAROK TV HD 576P","C":"8","D":"KÜRTÇE","E":"KÜRTÇE","F":"https://2.bp.blogspot.com/-FnycpGeuJpE/XWKnF-WfRVI/AAAAAAAAAN0/RwNChILGQvovnzumy5Axv9Gb8opHEaMhACPcBGAYYCw/s1600/xpClNT0.png","G":"http://213.162.202.9:8000/play/a02b/index.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+{"A":"33","B":"ZAROK TV HD 576P","C":"8","D":"KÜRTÇE","E":"KÜRTÇE","F":"https://2.bp.blogspot.com/-FnycpGeuJpE/XWKnF-WfRVI/AAAAAAAAAN0/RwNChILGQvovnzumy5Axv9Gb8opHEaMhACPcBGAYYCw/s1600/xpClNT0.png","G":"http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
 
 
