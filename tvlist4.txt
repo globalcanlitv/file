@@ -18,6 +18,8 @@
 
 {"A":"12","B":"DİNİ KANALLAR","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"12"},
 
+{"A":"13","B":"AZERBAYCAN","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"12"},
+
 {"A":"8","B":"KÜRTÇE","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/haber.png","E":"8"},
 
 {"A":"11","B":"ALMANYA","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"11"},
@@ -462,6 +464,60 @@
 {"A":"1058","B":"SİNEMA 10 HD","C":"7","D":"SİNEMA KANALLARI","E":"SİNEMA KANALLARI","F":"https://2.bp.blogspot.com/-IY69n7fgy3s/XWKnF13pJrI/AAAAAAAAAOQ/qG1s9W0PR-Ub2hhDaH198tCq4k9o5izxwCPcBGAYYCw/s1600/QLABMdm.jpg","G":"https://app.karsindabebekyok.best/app/kanal/47.json","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
 
 {"A":"1059","B":"SİNEMA 11 HD","C":"7","D":"SİNEMA KANALLARI","E":"SİNEMA KANALLARI","F":"https://2.bp.blogspot.com/-IY69n7fgy3s/XWKnF13pJrI/AAAAAAAAAOQ/qG1s9W0PR-Ub2hhDaH198tCq4k9o5izxwCPcBGAYYCw/s1600/QLABMdm.jpg","G":"http://yayin2.bunusanasoracagim.best/selcuksportssinema/bilimkurgu/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/55.0.2883.87 Safari\/537.36","O":"","P":0},
+
+
+
+
+
+{"A":"1222","B":"ATV TV AZ HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://1.bp.blogspot.com/-1a1iHypX6cI/XeWkOKEVywI/AAAAAAAAAuY/TIRi4lY3iWktv1aXlfjV0SqyGAZTP6vvQCLcBGAsYHQ/s1600/PicsArt_11-29-11.18.40.png","G":"http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1223","B":"AZ TV HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://2.bp.blogspot.com/-rKwR7HdOsTQ/XeWzbId9vQI/AAAAAAAAAuk/x3KAgQskSzY-mwIguy2RG4IFVIdunHd8ACLcBGAsYHQ/s1600/PicsArt_11-29-11.24.19.png","G":"https://api.tvibo.com/api/v1/player/streams/427943f5-ab8d-4bb2-bb2c-09e1d46a68e1/stream-url","H":"defaultplayer","I":"false","J":"pattern","K":"['\"](http[^'\"]*m3u8[^'\"]*)['\"]","L":"","M":"","R":"{\"Referer\":\"https://player.tvibo.com/aztv/3977237\"}","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1224","B":"İDMAN TV HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://3.bp.blogspot.com/-5CIoZXg0H_g/XeZoOi3VPTI/AAAAAAAAAuw/S6GjKYtWcNk672WRwQA5dyQKBl8_J-D5QCLcBGAsYHQ/s1600/PicsArt_11-29-11.06.07.png","G":"http://streams.livetv.az/azerbaijan/idmanhd/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1225","B":"MƏDƏNİYYƏT TV HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://1.bp.blogspot.com/-lvV5_pe7vRY/XeZqfH8R0DI/AAAAAAAAAu8/Jud-_X9A3EozbQ18NyaMwKfiEt76iOj_ACLcBGAsYHQ/s1600/PicsArt_11-29-11.05.06.png","G":"http://85.132.53.56/azerbaijan/medeniyyet_stream2/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1226","B":"İTV TV AZ HD 720P","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://2.bp.blogspot.com/-rRCY0cpH1JI/XeZ2hRi_KAI/AAAAAAAAAvI/-4wRR-ZNF_g4hJC_fEImBtBSHwAcxJMtACLcBGAsYHQ/s1600/PicsArt_11-29-11.31.34.png","G":"https://node19.connect.az:8086/ch1/ch1.hi.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"{\"Referer\":\"https://itv.az/live-tv\"}","N":"Mozilla/5.0 (Linux; Android 7.0; SM-J330F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Mobile Safari/537.36","O":"","P":0},
+
+{"A":"1227","B":"LİDER TV AZ HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://3.bp.blogspot.com/-PHEMmOrBw74/XeZ4wm65JEI/AAAAAAAAAvU/WHYyHNa6_4o7CMRwuR-6x_XgT6iqT4MZQCLcBGAsYHQ/s1600/PicsArt_11-30-01.18.12.png","G":"http://az2.canlitvplayer.com/azerbaijan/lider_stream/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1228","B":"SPACE TV AZ HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://2.bp.blogspot.com/-SIDIr3oSUsw/XeZ5h5MVdEI/AAAAAAAAAvc/eweocXG8LQ8INgx7-qM3GGkHjfgg4U6uQCLcBGAsYHQ/s1600/PicsArt_12-02-10.00.55.jpg","G":"http://www.hdtvler.tv/space-tv-az/","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1229","B":"XƏZƏR TV HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://1.bp.blogspot.com/---b5gU82U0c/XeZ7zEa9j0I/AAAAAAAAAvo/Xo7TlzlmjWUEIL5a2EvrmYsLxMS87AZogCLcBGAsYHQ/s1600/images8.jpeg","G":"https://www.ecanlitvizle.live/embed.php?kanal=xezer-tv-izle","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://www.ecanlitvizle.live/xezer-tv-izle/\"}","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1230","B":"CBC SPORT TV HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://4.bp.blogspot.com/-o43ATt9a1OU/Xd_FQgmrNOI/AAAAAAAAAtQ/YZ12_X1YhgcKqmTWkM6VRXiTE8895o5NwCLcBGAsYHQ/s1600/PicsArt_11-28-02.00.45.jpg","G":"http://85.132.53.55/azerbaijan/cbc_sport_hd/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1231","B":"DALGA TV HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://3.bp.blogspot.com/-coXdg99LqP4/XeZ9r6LUUlI/AAAAAAAAAv0/zle-5_530f07ixA7kSXrAEDq4Zb_GttMQCLcBGAsYHQ/s1600/PicsArt_12-02-10.00.18.jpg","G":"http://www.hdtvler.tv/dalga-tv-az/","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1232","B":"REAL TV AZ HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://2.bp.blogspot.com/-Vyctw6zZTn8/XeZ-4U7b_ZI/AAAAAAAAAv8/97IJHsyPo0UoP9QVj6jvJdVW2ltJbo5wQCLcBGAsYHQ/s1600/PicsArt_12-02-09.59.04.png","G":"https://www.ecanlitvizle.live/embed.php?kanal=real-tv-az","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://www.ecanlitvizle.live/real-tv-az/\"}","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1233","B":"NAXÇIVAN TV HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://3.bp.blogspot.com/-rktG1m7jWKY/XeaA2up99ZI/AAAAAAAAAwI/lD2g8tneJ9UA36ZicEh7zIULKSlpgFpCQCLcBGAsYHQ/s1600/PicsArt_12-03-04.34.06.png","G":"http://85.132.53.56/azerbaijan/nax/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1234","B":"TURAN TV AZ HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://3.bp.blogspot.com/-4VsX-9HsPSk/XeaBj_Sk2dI/AAAAAAAAAwQ/j8vQaMUeoLQM26U5TQQ9mB26E4omhp1QgCLcBGAsYHQ/s1600/PicsArt_12-02-09.25.13.png","G":"http://185.132.178.34:7500/Turan-TV/index.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1235","B":"ARB TV HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://3.bp.blogspot.com/-1L41IAgBtfk/XeaD-dPJcPI/AAAAAAAAAwc/WGr-sQTUbjc4BZtz6cmmal9UQQNplKGHwCLcBGAsYHQ/s1600/images.jpeg","G":"https://onlinetvler.etvserver.com/live_sd/arbaz/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1236","B":"ARB 24 TV HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://1.bp.blogspot.com/-t0_1HXK6NrQ/XeaFI5yMBXI/AAAAAAAAAwk/04hrHD7qlfwPmwjW3TJY9LQy11OolN8kwCLcBGAsYHQ/s1600/ind1ir.jpeg","G":"http://www.hdtvler.tv/arb-24-tv-az/","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1237","B":"KƏPƏZ ARB TV HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://3.bp.blogspot.com/-lLe2L4Qicuk/XeaG_IRz1VI/AAAAAAAAAww/SHJ3wbjjhKUYmC_np2ZfgILIxtKgZdz9gCLcBGAsYHQ/s1600/PicsArt_12-02-09.36.21.png","G":"http://85.132.81.184:8080/arbkepez/live/index.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1238","B":"GÜNAZ TV HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://2.bp.blogspot.com/-lnpJ4SqtlFw/XeaHvoHxUXI/AAAAAAAAAw4/Lm7ZaMV6YiAeb7YykzFGdW_rc5lb-oq6gCLcBGAsYHQ/s1600/PicsArt_12-02-09.55.42.png","G":"https://gtv.live-s.cdn.bitgravity.com/cdn-live/_definst_/gtv/live/multibitrate.smil/chunklist_w464903218_b300000.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1239","B":"QAFQAZ TV HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://2.bp.blogspot.com/-qhkytop_ovY/XeaMP2QnFHI/AAAAAAAAAxE/IY1E8QpDHS4Sas8dzDtNrnzsAuiRfWCcwCLcBGAsYHQ/s1600/PicsArt_12-02-10.05.49.jpg","G":"https://streams3.livetv.az/azerbaijan/qafqaztv/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1240","B":"CBC TV AZ HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://1.bp.blogspot.com/-av2RzUcnhPk/XeaNaGvO0wI/AAAAAAAAAxM/5zIxuj_162g1fWmB9zKz-mnN2b2Y2K2QgCLcBGAsYHQ/s1600/PicsArt_12-02-10.08.48.png","G":"http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1241","B":"SAHAR TV AZ HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://4.bp.blogspot.com/-xFEEeArd_Ec/XeaQsbVmocI/AAAAAAAAAxY/_j1rD502hbIysYsvaLeYVTxqcAcuQKgEACLcBGAsYHQ/s1600/in333dir.jpeg","G":"https://sepehr.irib.ir/frame/t/sahar1","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1242","B":"İNTER TV AZ HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://4.bp.blogspot.com/-aABfs_erC9c/XeaSy4K_T7I/AAAAAAAAAxk/3uupNPjE6gMaaQOpILc1HgMDMIsApT78wCLcBGAsYHQ/s1600/PicsArt_12-03-05.52.08.jpg","G":"https://interaztv.com/stream/","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1243","B":"DÜNYA TV AZ HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://4.bp.blogspot.com/-OGcxpv5gUy0/XeaZwNNlt4I/AAAAAAAAAx8/UHQ49HeUImAvCGWRSXh1L-pg_QDAirpLgCLcBGAsYHQ/s1600/dddd33.jpg","G":"http://www.hdtvler.tv/dunya-tv/","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1244","B":"ÜMİD TV AZ HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://3.bp.blogspot.com/-ZehVSKM3QCI/Xeac1cdBKEI/AAAAAAAAAyI/8cl5VeuDN3I4aOzxl0HySvmq5RraFHQCACLcBGAsYHQ/s1600/PicsArt_12-02-10.34.36.png","G":"http://cdn-umudtv.yayin.com.tr/umudtv/smil:umudtv.smil/playlist.m3u8","H":"defaultplayer","I":"false","J":"direct","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1245","B":"GÜNEŞ ARB TV HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://1.bp.blogspot.com/-VOVlVfirx90/XeafRoIo8tI/AAAAAAAAAyU/apjXXvcunzkeWvNzt5tTd0Qs4qiJIw0QgCLcBGAsYHQ/s1600/PicsArt_12-02-10.38.35.jpg","G":"https://www.ecanlitvizle.live/embed.php?kanal=arb-gunes","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"{\"Referer\":\"https://www.ecanlitvizle.live/arb-gunes/\"}","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
+
+{"A":"1246","B":"MUZ TV AZ HD","C":"13","D":"AZERBAYCAN","E":"AZERBAYCAN","F":"https://3.bp.blogspot.com/-vqhGFVwCqa0/Xeaf97RzbAI/AAAAAAAAAyc/IJEOlIg5ad4zfwf71_6rdWqypXJwH6hqACLcBGAsYHQ/s1600/PicsArt_12-02-10.46.17.jpg","G":"http://www.hdtvler.tv/muz-tv-azerbaycan/","H":"defaultplayer","I":"false","J":"graphm3u8","K":"","L":"","M":"","R":"","N":"Mozilla\/5.0 (Windows NT 10.0) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/47.0.2526.111 Safari\/537.36","O":"","P":0},
 
 
 
