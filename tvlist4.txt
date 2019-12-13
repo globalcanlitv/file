@@ -18,11 +18,11 @@
 
 {"A":"12","B":"DİNİ KANALLAR","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"12"},
 
-{"A":"13","B":"AZERBAYCAN","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"12"},
+{"A":"8","B":"KURDİSH","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/haber.png","E":"8"},
 
-{"A":"8","B":"KÜRTÇE","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/haber.png","E":"8"},
+{"A":"11","B":"GERMANY","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"11"},
 
-{"A":"11","B":"ALMANYA","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"11"},
+{"A":"13","B":"AZERBAİJAN","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"12"},
 
 {"A":"9","B":"BELÇİKA/FRANSA","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/diger.png","E":"9"}],
 
