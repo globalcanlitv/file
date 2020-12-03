@@ -1,10 +1,3 @@
-<?php
-if(empty($_POST)) {
-echo "Kaybol git lan.";
-}
-else
-{
-?>
 {"X":[{"A":"0","B":"TÜM KATEGORİLER","C":"","D":"http://www.mobilcanlitvizle.com/kategorilogo/tumu.png","E":"0"},
 
 {"A":"14","B":"TRT EBA TV EĞİTİM","C":"","D":"http:\/\/www.mobilcanlitvizle.com\/kategorilogo\/ulusal.png","E":"14"},
